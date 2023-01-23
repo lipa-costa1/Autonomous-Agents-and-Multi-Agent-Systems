@@ -1,0 +1,12 @@
+# Follow this order
+# Go to rocket-learn-master folder nd run 'pip install .'
+rlbot==1.*
+numpy==1.20.3
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.9.0+cu111
+rlgym==1.1.0
+rlgym-compat==1.0.2
+EARL-pytorch==0.5.1
+pygame
+# install with conda
+# pywin32==228
