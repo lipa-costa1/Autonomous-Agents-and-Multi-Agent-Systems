@@ -1,4 +1,3 @@
-# AASMA 2021/2022 - Group 38 - Project
 ## Aasma Rocket League 2vs2 Agent
 ##### Steps to run
 ### Prerequisites
