@@ -1,4 +1,15 @@
 ## Aasma Rocket League 2vs2 Agent
+
+### Description
+
+The project focus on designing and implementing a multiagent system while considering cooperation,
+coordination, or negotiation strategies.
+The project includes several of the following features:
+• Agents have either conflicting goals or face complex coordination problems;
+• Agents have a variety of sensors and actuators (and they are not be too limited);
+• Communication and coordination mechanisms (cooperation, teamwork);
+• Complex negotiation and cooperation between agents.
+
 ##### Steps to run
 ### Prerequisites
 1. Windows 10/11
